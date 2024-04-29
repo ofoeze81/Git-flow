@@ -1,3 +1,4 @@
 main
 dev branch
 feature branch
+release branch
